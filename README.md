@@ -19,7 +19,7 @@
 
 [twitter]: https://twitter.com/Tabitha 
 [instagram]: https://www.instagram.com/Tabitha 
-[linkedin]: https://linkedin.com/in/Tabitha
+[linkedin]: https://linkedin.com/in/tabitha-watson
 <!--
 **Tabby334/Tabby334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
