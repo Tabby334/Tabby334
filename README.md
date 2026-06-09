@@ -17,9 +17,8 @@
 [<img align="left" alt="Tabitha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tabitha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Tabitha 
-[instagram]: https://www.instagram.com/Tabitha 
-[linkedin]: https://linkedin.com/in/tabitha-watson
+
+[linkedin]: https://www.linkedin.com/in/tabitha-watson-89017644/
 <!--
 **Tabby334/Tabby334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
